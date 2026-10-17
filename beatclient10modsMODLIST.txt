@@ -1,0 +1,30 @@
+# BeatClient 1.8.9 — Mod List
+
+BeatClient is a lightweight Minecraft Java Edition 1.8.9 modpack focused on FPS, stability, and PvP.
+
+## Included Mods
+
+| Mod | Purpose |
+|---|---|
+| Apex Scaler | Scaling / display features |
+| Canelex Keystrokes | Keystrokes HUD |
+| EvergreenHUD | HUD customization |
+| Freelook | Freelook camera |
+| I DONT WANT PARTICLES!!! | Particle reduction |
+| Input Methods Blocker | Input-related functionality |
+| OneConfig | Mod configuration framework |
+| OptiFine | Graphics and performance options |
+| Ping Counter | Ping display |
+| PolySprint | Sprint functionality |
+
+## Open Source & Credits
+
+This modpack combines third-party mods. Each mod remains subject to its own license and copyright.
+
+Source-code links, authors, exact versions, and licenses should be added for each mod where available.
+
+BeatClient original configuration files and documentation are separate from the third-party mods.
+
+## Security
+
+Security scans and SHA-256 checksums should be published for each release. A clean scan does not guarantee complete safety.
